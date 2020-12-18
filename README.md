@@ -1,2 +1,2 @@
 # RFCyprididae
-BINF6210 Assignment 2
+Compares computational time and accuracy of random forest models generated using varying length K-mers.
